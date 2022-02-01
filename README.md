@@ -6,16 +6,17 @@ I'm an experienced User Experience Designer 🎨 and a Creative Technologist ⚡
 
 
 ## Skills and Experience
-* 💻 HTML | CSS | JS
+* 🎨 UX Design
+* 💻 HTML | CSS | JavaScript
 * ⚛︎ REACT JS
-* 🇻 VUE JS
+* 💻 VUE JS
 * 🔥 WEBGL
 * 💻 PHP
 * 🔗 MYSQL
 * 📱 FLUTTER 
 
 
-## My GitHub Stats
+## My GitHub Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanpereraux)](https://github.com/anuraghazra/github-readme-stats)
 
 

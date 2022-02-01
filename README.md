@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Vihan Perera
-
+## Hi there 👋, I'm Vihan Perera
 
 ![Designer // Creative Programmer](https://pbs.twimg.com/profile_banners/936510842866143237/1643739080/1080x360)
 

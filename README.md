@@ -5,7 +5,14 @@
 
 I'm an experienced User Experience Designer 🎨 and a Creative Technologist ⚡ with a demonstrated history of working in the computer software industry. Skilled in Creative Programming, User Experience (UX), User Interface Developing, and Branding. I usually talk about frontend frameworks, backend technologies, database, WebGL and algorithmic generative visuals.
 
-Skills: HTML / CSS / JS / REACT JS / VUE JS / WEBGL / PHP / MYSQL / FLUTTER  
+## Skills and Experience
+* 💻 HTML | CSS | JS
+* ⚛︎ REACT JS
+* 🇻 VUE JS
+* 🔥 WEBGL
+* 💻 PHP
+* 🔗 MYSQL
+* 📱 FLUTTER 
 
 - 🔭 I’m currently working on web frameworks and WebGL 
 - 🌱 I’m currently learning GL Shader Language 

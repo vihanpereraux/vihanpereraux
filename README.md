@@ -15,7 +15,7 @@ I'm an experienced User Experience Designer 🎨 and a Creative Technologist ⚡
 * 📱 FLUTTER 
 
 
-## What's going on
+## What's Happening These Days !
 - 🔭 I’m currently working on web frameworks and WebGL 
 - 🌱 I’m currently learning GL Shader Language 
 - 👯 I’m looking to collaborate on creative projects 

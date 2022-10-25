@@ -19,9 +19,9 @@ I'm an experienced User Experience Designer 🎨 and a Creative Technologist ⚡
 
 
 ## What's Happening These Days !
-- 🔭 I’m currently working on web frameworks and WebGL 
-- 🌱 I’m currently learning GL Shader Language 
-- 👯 I’m looking to collaborate on creative projects 
+- 🔭 Working on web frameworks and WebGL 
+- 🌱 Learning visual scripting with cables.gl 
+- 👯 24/7 available for creative/interactive projects 
 - ⚡ Fun fact - I melt your GPU for fun 
 
 

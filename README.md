@@ -4,7 +4,7 @@ I'm an experienced User Experience Designer 🎨 and a Creative Technologist ⚡
 
 
 ## Skills and Experience
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills and Experience

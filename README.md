@@ -2,8 +2,6 @@
 
 I'm an experienced User Experience Designer 🎨 and a Creative Technologist ⚡ with a demonstrated history of working in the computer software industry. Skilled in Creative Programming, User Experience (UX), User Interface Developing, and Branding. I usually talk about frontend frameworks, backend technologies, database, WebGL and algorithmic generative visuals.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Skills and Experience
 * 🎨 UX Design

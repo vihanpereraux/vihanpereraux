@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vihan Perera
 
-I'm an [noob] Interactive Media/Creative Developer ⚡ [kind of] skilled in Creative Computing, User Experience (UX) Designing, User Interface (UI) Development and Mobile App Development. I usually talk about frontend frameworks, WebGL effects/frameworks, algorithmic generative/realtime visuals and AR VR stuff.
+I'm a [noob] Creative/Interactive Media Developer ⚡ [kind of] skilled in Creative Computing, User Experience (UX) Designing, User Interface (UI) Development and Mobile App Development. I usually talk about frontend frameworks, WebGL effects/frameworks, algorithmic generative/realtime visuals and AR VR stuff.
 
 
 ## Skills and Experience

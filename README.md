@@ -11,7 +11,7 @@ I'm a [noob] Creative/Interactive Media Developer ⚡ [kind of] skilled in Creat
 * 💻 p5 JS
 * 📱 SWIFT  
 * 🔥 WebGL Frameworks
-* 🔥 Hydra Visualisations
+* 🔥 Hydra
 
 
 

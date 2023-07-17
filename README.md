@@ -9,6 +9,7 @@ I'm a [noob] Creative/Interactive Media Developer ⚡ [kind of] skilled in Creat
 * ⚛︎ REACT JS
 * 💻 VUE JS
 * 💻 p5 JS
+* 🚀 Next JS
 * 📱 SWIFT  
 * 🔥 WebGL Frameworks
 * 🔥 Hydra

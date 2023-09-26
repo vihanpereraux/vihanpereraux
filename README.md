@@ -7,7 +7,7 @@ I'm a [noob] Creative/Interactive Media Developer ⚡ [kind of] skilled in Creat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanpereraux)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Mains :)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux&layout=compact)
 
 
 ## Let's get Connected !!

@@ -2,6 +2,7 @@
 
 I'm a [noob] Creative/Interactive Media Developer ⚡ [kind of] skilled in Creative Computing, User Experience (UX) Designing, User Interface (UI) Development and Mobile App Development. I usually talk about frontend frameworks, WebGL effects/frameworks, algorithmic generative/realtime visuals and AR VR stuff.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vihanpereraux&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Stats ; \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanpereraux)](https://github.com/anuraghazra/github-readme-stats)

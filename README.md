@@ -2,7 +2,7 @@
 
 Hello, and thank you for dropping by! I’m a digital craftsman whose passion lies in the convergence of technology and artistry, exploring the vast landscape where creativity meets code. My journey is one of constant learning, experimenting, and pushing the boundaries of what’s possible in the digital realm.
 
-**Creative Front-End Development** is my playground, where I harness the power of WebGL libraries such as Three.js, Cables.gl, and Spline to create visually stunning and immersive web experiences. My aim is to push the limits of web aesthetics, blending interactivity with beauty.
+**[Creative Front-End Development]** is my playground, where I harness the power of WebGL libraries such as Three.js, Cables.gl, and Spline to create visually stunning and immersive web experiences. My aim is to push the limits of web aesthetics, blending interactivity with beauty.
 
 Diving deeper into **Full Stack Development**, I am committed to architecting robust applications from the ground up. My approach integrates sleek, efficient backend solutions with captivating front-end designs, ensuring a seamless and holistic user experience.
 

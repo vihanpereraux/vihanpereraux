@@ -5,3 +5,6 @@
 
 ## My Mains : )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux&layout=compact)
+
+## My Stats : )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanpereraux&show_icons=true&theme=transparent)

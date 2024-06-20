@@ -11,3 +11,5 @@
 
 ## Stackoverflowe Contributions
 [!(https://github-readme-stackoverflow.vercel.app/?userID=3840208)]([https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/11007211/vihanpereraux))
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vihanpereraux&repo=vihanpereraux&countColorcountColor&countColor=%237B1E7B"/>

@@ -10,4 +10,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanpereraux&theme=tokyonight" alt="mystreak"/>
 
 ## Stackoverflowe Contributions
-[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)]([https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/11007211/vihanpereraux))
+[!(https://github-readme-stackoverflow.vercel.app/?userID=3840208)]([https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/11007211/vihanpereraux))

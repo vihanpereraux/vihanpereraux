@@ -6,7 +6,7 @@
 ## My Mains & Stats : )
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vihanpereraux&show_icons=true&theme=transparent)   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vihanpereraux&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />   
 
-## Streaks 
+## Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanpereraux&theme=tokyonight" alt="mystreak"/>
 
 ![](https://komarev.com/ghpvc/?username=vihanpereraux&label=PROFILE+VIEWS)

@@ -1,4 +1,4 @@
-### 25 y/o old school computer junkie [Generative AI Pervert] who's passionate about Web Dev. and Interactive / Computational Art Programming ; )
+### 25 y/o old school computer junkie [Generative AI Pervert] who's passionate about Web Development & Interactive / Computational Art Programming ; )
  
 <b> + I code 'Web Apps' using React and Next frameworks.<b>
 
@@ -20,6 +20,7 @@
 ![ThinkPad](https://img.shields.io/badge/Neovim-57a143?style=for-the-badge&logo=neovim&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed-industries&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/Warp-darkblue?style=for-the-badge&logo=warp&logoColor=white)
+
 ![ThinkPad](https://img.shields.io/badge/html-orangered?style=for-the-badge&logo=html5&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript&logoColor=white)

@@ -1,4 +1,4 @@
-### 25 y/o old school computer junkie [Generative AI Pervert] who's passionate about Web Development & Interactive / Computational Art Programming ; )
+### 25 y/o old school computer junkie [Generative AI Pervert] who's passionate about Web Development & Interactive / Computational Art Programming  ; )
  
 <b> + I code 'Web Apps' using React and Next frameworks.<b>
 

@@ -1,6 +1,6 @@
 ### 25 y/o old school computer junkie [Generative AI Pervert] who's passionate about Web Development & Interactive / Computational Art Programming  ; )
  
-<b> + I code 'Web Apps' using React [ts/js], Next [ts/js], MUI & Shadcn UI.<b>
+<b> + I code 'Web Apps' using React [ts / js], Next [ts / js], MUI & Shadcn UI.<b>
 
 <b> + I code 'Webart' using Hydra.js, p5.js, Cables.gl & Three.js.
 

@@ -2,7 +2,11 @@
 
 <b> + I code 'Web Apps' using React [ts / js], Next [ts / js], MUI & Shadcn UI.<b>
 
+<b> + Sometimes I create Node & Flask servers ( / endpoints) to stream data to client-side applications like React Apps, Unity, Unreal Engine and etc.<b>
+
 <b> + I code 'Webart' using Hydra.js, p5.js, Cables.gl & Three.js.
+
+<b> + Hardcore EEG data enthusaist (MUSE EEG Device) - for Real-Time Creative Coding Projects.<b>
 
 <b> + Hardcore TouchDesigner fan and noob TD developer !<b>
 

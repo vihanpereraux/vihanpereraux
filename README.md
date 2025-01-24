@@ -8,7 +8,7 @@
 
 <b> + Hardcore EEG data enthusaist (MUSE EEG Device) - for Real-Time Creative Coding Projects.<b>
 
-<b> + Hardcore TouchDesigner fan and noob TD developer : ) <b>
+<b> + Hardcore TouchDesigner fan and noob TouchDesigner developer : ) <b>
 
 <b> + I run my own home-server 'Hellforge' that has a local streaming [TV] service, media server, chatroom and a server for open-source tiny ML models. <b>
 

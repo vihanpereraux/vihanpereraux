@@ -61,7 +61,7 @@
 ![ThinkPad](https://img.shields.io/badge/unreal_engine-black?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
 
-### +++ [ Hardware & OS ]
+### +++ [ Hardware · OS ]
 
 ![ThinkPad](https://img.shields.io/badge/ThinkPad_T480-darkred?style=for-the-badge&logo=thinkpad&logoColor=white)
 ![MintOS](https://img.shields.io/badge/Mint%20OS-green?style=for-the-badge&logo=linux-mint&logoColor=white)

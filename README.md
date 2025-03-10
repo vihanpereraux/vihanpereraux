@@ -74,10 +74,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vihanpereraux&show_icons=true&theme=gotham)
 
-<!-- ## Streaks
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vihanpereraux&theme=tokyonight" alt="mystreak"/> -->
-
 <!-- profile views -->
 
 ![](https://komarev.com/ghpvc/?username=vihanpereraux&label=PROFILE+VIEWS)

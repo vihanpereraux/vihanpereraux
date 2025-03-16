@@ -52,7 +52,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-black?style=style=for-the-badge&logo=github)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?style=for-the-badge&logo=awsamplify&logoColor=white)
 
 ![ThinkPad](https://img.shields.io/badge/firebase-orangered?style=for-the-badge&logo=firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)

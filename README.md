@@ -1,27 +1,30 @@
-### 25 y/o old school computer junkie [Generative AI Pervert] who's passionate about Web Development & Interactive / Computational Art Programming ; )
+### 25 y/o old school computer junkie : passionate about Web Programming & Computational Art ; )
 
-<b> + I code 'Web Apps' using React [ts / js], Next [ts / js], MUI & Shadcn UI.<b>
+<b> + Actively contributing on — 
+<a href="https://ez-streaming.vercel.app/" target="_blank">Ez-Streaming</a><b> ·
+<a href="https://homeless-tv.vercel.app/" target="_blank">Homeless TV</a><b> ·
+<a href="https://list-npms.vercel.app/" target="_blank">List NPMs</a><b> ·
+<a href="https://yt-cc.vercel.app/" target="_blank">YT-Captions</a><b> ·
+<a href="https://argos-review-analyzer.vercel.app/" target="_blank">Argos Review Analyzer</a><b>
 
-<b> + Sometimes I create Node & Flask servers ( / endpoints) to stream data to client-side applications like React Apps, Unity, Unreal Engine and etc.<b>
+<b> + React-first Web Programmer.<b>
 
-<b> + I code 'Webart' using Hydra.js, p5.js, Cables.gl & Three.js.
+<b> + Use Node & Flask servers to stream data to various clients like React, Unity, Unreal Engine and etc.<b>
 
-<b> + Hardcore EEG data enthusaist (MUSE EEG Device) - for Real-Time Creative Coding Projects.<b>
+<b> + Code 'Webart' using Hydra.js, p5.js, Cables.gl & Three.js.
 
 <b> + Hardcore TouchDesigner fan and noob TouchDesigner developer : ) <b>
 
-<b> + I run my own home-server 'Hellforge' that has a local streaming [TV] service, media server, chatroom and a server for open-source tiny ML models. <b>
-
 ---
 
-### +++ [ Previously Worked At ]
+<!-- ### +++ [ Previously Worked At ] -->
 
-<b>University of Westminster, Telexal Technologies, Nine Hermits Gaming, Prodigi Interactive, CodeGen International, Kingslake<b>
+<!-- <b>University of Westminster, Telexal Technologies, Nine Hermits Gaming, Prodigi Interactive, CodeGen International, Kingslake<b> -->
 
----
+<!-- --- -->
 
-### +++ [ Tools · Languages · Frameworks ]
-
+<!-- ### +++ [ Tools · Languages · Frameworks ] -->
+<!-- 
 ![ThinkPad](https://img.shields.io/badge/Neovim-57a143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zed-industries&logoColor=white)
@@ -67,9 +70,9 @@
 ![ThinkPad](https://img.shields.io/badge/ThinkPad_T480-darkred?style=for-the-badge&logo=thinkpad&logoColor=white)
 ![MintOS](https://img.shields.io/badge/Mint%20OS-green?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![ThinkPad](https://img.shields.io/badge/Asus_f15-000000?style=for-the-badge&logo=asus&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
----
+<!-- --- -->
 
 ### +++ [ Numbers ]
 

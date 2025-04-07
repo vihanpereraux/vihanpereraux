@@ -7,7 +7,7 @@
 <a href="https://yt-cc.vercel.app/" target="_blank">YT-Captions</a><b> ·
 <a href="https://argos-review-analyzer.vercel.app/" target="_blank">Argos Review Analyzer</a><b>
 
----
+<!-- --- -->
 
 <!-- ### +++ [ Previously Worked At ] -->
 
@@ -66,7 +66,7 @@
 
 <!-- --- -->
 
-### +++ [ Numbers ]
+<!-- ### +++ [ Numbers ] -->
 
 ![](https://github-readme-stats.vercel.app/api?username=vihanpereraux&show_icons=true&theme=gotham)
 

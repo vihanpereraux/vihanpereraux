@@ -7,14 +7,6 @@
 <a href="https://yt-cc.vercel.app/" target="_blank">YT-Captions</a><b> ·
 <a href="https://argos-review-analyzer.vercel.app/" target="_blank">Argos Review Analyzer</a><b>
 
-<b> + React-first Web Programmer.<b>
-
-<b> + Use Node & Flask servers to stream data to various clients like React, Unity, Unreal Engine and etc.<b>
-
-<b> + Code 'Webart' using Hydra.js, p5.js, Cables.gl & Three.js.
-
-<b> + Hardcore TouchDesigner fan and noob TouchDesigner developer : ) <b>
-
 ---
 
 <!-- ### +++ [ Previously Worked At ] -->

@@ -69,6 +69,7 @@
 <!-- ### +++ [ Numbers ] -->
 
 ![](https://github-readme-stats.vercel.app/api?username=vihanpereraux&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vihanpereraux&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- profile views -->
 

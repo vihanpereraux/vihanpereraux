@@ -1,7 +1,7 @@
 ### 25 y/o old school computer junkie : passionate about Web Programming & Computational Art ; )
 
 <b> + Actively contributing on — 
-<a href="https://ez-streaming.space/" target="_blank">Ez Streaming</a><b> ·
+<a href="https://ez-streaming.space/" target="_blank">Ez-Streaming</a><b> ·
 <a href="https://homeless-tv.vercel.app/" target="_blank">Homeless TV</a><b> ·
 <a href="https://argos-analyzer.vercel.app/" target="_blank">Argos Review Analyzer</a><b> ·
 <a href="https://list-npms.vercel.app/" target="_blank">List NPMs</a><b> ·
